@@ -1,4 +1,4 @@
-# Assembly Project
+# Assembly Project #
 
 ## Version ##
 <pre>
@@ -21,18 +21,22 @@
 
 ### game menu ###
 介紹遊戲設定與自訂內容
+<br/>
 ![](/images/menu.jpg)
 
 ### loading ###
 模仿 flappy bird 的前置畫面
+<br/>
 ![](/images/open.jpg)
 
 ### game play ###
 遊戲畫面，紀錄當前速度，歷次最高分數
+<br/>
 ![](/images/gameplay.jpg)
 
 ### reward ###
 加分動畫
+<br/>
 ![](/images/reward.jpg)
 
 ## Motivation ##
