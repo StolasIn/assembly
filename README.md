@@ -19,6 +19,21 @@
 ## Demo ##
 你可以在 <a href = "https://stolasin.github.io/project-display/assembly.html">這裡</a> 找到開發的心路歷程與成果展示
 
+### game menu ###
+介紹遊戲設定與自訂內容
+![](/images/menu.jpg)
+
+### loading ###
+模仿 flappy bird 的前置畫面
+![](/images/open.jpg)
+
+### game play ###
+遊戲畫面，紀錄當前速度，歷次最高分數
+![](/images/gameplay.jpg)
+
+### reward ###
+加分動畫
+![](/images/reward.jpg)
+
 ## Motivation ##
 了解組合語言以及電腦較底層的操作
-
