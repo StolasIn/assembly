@@ -1,6 +1,6 @@
-# assembly project
+# Assembly Project
 
-## version ##
+## Version ##
 <pre>
 遊戲主題 	: spring bird (模擬 flappy bird)
 遊戲製造時間	: 2020/11/16 ~ 2020/1/16
@@ -13,10 +13,10 @@
 參考資料來源 	: Assembly Language for x86 Processors 7 edition / Irvine
 </pre>
 
-## usage ##
+## Usage ##
 使用 vs2019 架設 asm 環境，將程式編譯並執行
 
-## demo ##
+## Demo ##
 你可以在 <a href = "https://stolasin.github.io/project-display/assembly.html">這裡</a> 找到開發的心路歷程與成果展示
 
 ## Motivation ##
